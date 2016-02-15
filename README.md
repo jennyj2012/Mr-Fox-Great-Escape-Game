@@ -5,3 +5,5 @@ The object of the game is to land the fox inside the balloon by jumping from roc
 
 [Video Demo](https://www.youtube.com/watch?v=Ku4_0nocfHA&amp;)
 
+![Fox](./fox.jpg)
+
